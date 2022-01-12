@@ -1,4 +1,4 @@
-`These 3 assignments were part of my grad coursework at UWaterloo. Questions and starter code can be found here: `[cs885](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-fall21/assignments.html)
+`These 3 assignments were part of my grad coursework at UWaterloo. Questions and starter code can be found here:`[cs885](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-fall21/assignments.html)
 
 - A1
   - P1: Value iteration, policy iteration and modified policy iteration for Markov decision processes
